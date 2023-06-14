@@ -1,4 +1,4 @@
-# Login App
+# Login
 
 Login App is a login application that allows users to enter their email and password to log in. After successful login, a welcome alert appears, and upon clicking "Accept", the user is directed to my GitHub repositories. The app is developed using CSS, HTML, JavaScript, and React, and a styling library from Ed Team has been imported to enhance the visual appearance.
 
