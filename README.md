@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Login App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Login App is a login application that allows users to enter their email and password to log in. After successful login, a welcome alert appears, and upon clicking "Accept", the user is directed to my GitHub repositories. The app is developed using CSS, HTML, JavaScript, and React, and a styling library from Ed Team has been imported to enhance the visual appearance.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Input field for entering an email.
+- Input field for entering a password.
+- Login button.
+- Welcome alert after successful login.
+- Redirect to my GitHub repositories.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository: `https://github.com/Juliangarciam13/Login.git`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Navigate to the project directory: `cd Login`
 
-### `npm test`
+3. Install the dependencies: `yarn install`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Start the application: `yarn start`
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML: Markup language for the page structure.
+- CSS: Styling language for design and presentation.
+- JavaScript: Programming language for application logic.
+- React: JavaScript library for building user interfaces.
+- Ed Team Styling Library: Imported a styling library from Ed Team to enhance the visual design of the application.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Open the application in your web browser.
+2. Enter your email and password in the respective fields.
+3. Click the login button.
+4. A welcome alert will be displayed.
+5. Click "Accept" to be redirected to my GitHub repositories.
 
-### `npm run eject`
+## Author
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Name: Julian Garcia
+- GitHub: https://github.com/Juliangarciam13?tab=repositories
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions or comments about this application, feel free to contact me.
